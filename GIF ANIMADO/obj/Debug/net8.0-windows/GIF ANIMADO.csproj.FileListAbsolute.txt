@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\GIF ANIMADO\bin\Debug\net8.0-windows\GIF ANIMADO.exe
+C:\Users\Usuario\source\repos\GIF ANIMADO\bin\Debug\net8.0-windows\GIF ANIMADO.deps.json
+C:\Users\Usuario\source\repos\GIF ANIMADO\bin\Debug\net8.0-windows\GIF ANIMADO.runtimeconfig.json
+C:\Users\Usuario\source\repos\GIF ANIMADO\bin\Debug\net8.0-windows\GIF ANIMADO.dll
+C:\Users\Usuario\source\repos\GIF ANIMADO\bin\Debug\net8.0-windows\GIF ANIMADO.pdb
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF_ANIMADO.Form1.resources
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF_ANIMADO.Properties.Resources.resources
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.dll
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\refint\GIF ANIMADO.dll
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.pdb
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\GIF ANIMADO.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\GIF ANIMADO\obj\Debug\net8.0-windows\ref\GIF ANIMADO.dll
