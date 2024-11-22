@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\bin\Debug\net8.0-windows\HOLA MUNDO.exe
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\bin\Debug\net8.0-windows\HOLA MUNDO.deps.json
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\bin\Debug\net8.0-windows\HOLA MUNDO.runtimeconfig.json
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\bin\Debug\net8.0-windows\HOLA MUNDO.dll
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\bin\Debug\net8.0-windows\HOLA MUNDO.pdb
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA_MUNDO.Form1.resources
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.dll
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\refint\HOLA MUNDO.dll
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.pdb
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\HOLA MUNDO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\source\repos\HOLA MUNDO\obj\Debug\net8.0-windows\ref\HOLA MUNDO.dll
