@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CILINDRO/1.0.0": {
+        "runtime": {
+          "CILINDRO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CILINDRO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

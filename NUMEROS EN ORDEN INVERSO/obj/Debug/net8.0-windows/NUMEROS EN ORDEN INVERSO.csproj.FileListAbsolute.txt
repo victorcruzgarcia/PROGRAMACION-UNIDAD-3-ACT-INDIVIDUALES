@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\bin\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.exe
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\bin\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.deps.json
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\bin\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.runtimeconfig.json
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\bin\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.dll
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\bin\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.pdb
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS_EN_ORDEN_INVERSO.Form1.resources
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.dll
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\refint\NUMEROS EN ORDEN INVERSO.dll
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.pdb
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\NUMEROS EN ORDEN INVERSO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\NUMEROS EN ORDEN INVERSO\obj\Debug\net8.0-windows\ref\NUMEROS EN ORDEN INVERSO.dll
