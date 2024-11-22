@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CELSIUS A FAH/1.0.0": {
+        "runtime": {
+          "CELSIUS A FAH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CELSIUS A FAH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

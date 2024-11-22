@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CELSIUS A FAH\bin\Debug\net8.0-windows\CELSIUS A FAH.exe
+C:\Users\Usuario\Desktop\CELSIUS A FAH\bin\Debug\net8.0-windows\CELSIUS A FAH.deps.json
+C:\Users\Usuario\Desktop\CELSIUS A FAH\bin\Debug\net8.0-windows\CELSIUS A FAH.runtimeconfig.json
+C:\Users\Usuario\Desktop\CELSIUS A FAH\bin\Debug\net8.0-windows\CELSIUS A FAH.dll
+C:\Users\Usuario\Desktop\CELSIUS A FAH\bin\Debug\net8.0-windows\CELSIUS A FAH.pdb
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS_A_FAH.Form1.resources
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.dll
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\refint\CELSIUS A FAH.dll
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.pdb
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\CELSIUS A FAH.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\CELSIUS A FAH\obj\Debug\net8.0-windows\ref\CELSIUS A FAH.dll
